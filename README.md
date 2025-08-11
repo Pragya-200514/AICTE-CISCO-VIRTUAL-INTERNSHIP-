@@ -30,7 +30,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-**Name:** Sohan Kumar Potti 
+**Name:** pragya Gupta 
 
-**Email:** sohanpotti@gmail.com
+**Email:** pragyaguptaaa2005@gmail.com
 
